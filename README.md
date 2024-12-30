@@ -1,4 +1,4 @@
-# Computer Graphics Lab
+# Computer Graphics Lab (CSE-3206)
 
 This repository contains implementations of various **Computer Graphics Lab Tasks** using C++ and the **graphics.h** library.
 
